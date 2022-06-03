@@ -11,7 +11,7 @@ public class Test {
 		
 		if(haveMoodToPlay.equals("yes")) {
 			System.out.println("Lets play a game");
-			System.out.println("Another sos in if");
+			System.out.println("Another sos in if this need to be decided");
 		}
 		else {
 			System.out.println("No mood to play, so just sleep");
