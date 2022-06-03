@@ -15,7 +15,7 @@ public class Test {
 		}
 		else {
 			System.out.println("No mood to play, so just sleep");
-			System.out.println("Another sos..");
+			System.out.println("Another sos..");//
 		}
 		
 		
