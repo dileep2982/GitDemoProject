@@ -12,6 +12,7 @@ public class Test {
 			System.out.println("Another sos in if: this should be master only");
 		}
 		else {
+			System.out.println("in Else...");
 			System.out.println("No mood to play, so just sleep");
 			System.out.println("Another sos..");//
 		}
