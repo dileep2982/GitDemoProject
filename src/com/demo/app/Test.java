@@ -6,7 +6,9 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+
+
+		System.out.println("**** The Start **** Start Camel");//
 		String haveMoodToPlay = "yes";
 		
 		if(haveMoodToPlay.equals("yes")) {
@@ -17,6 +19,7 @@ public class Test {
 			System.out.println("No mood to play, so just sleep");
 			System.out.println("Another sos..");//
 		}
+		System.out.println("**** The End ****");
 		
 		
 	}
