@@ -6,11 +6,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-<<<<<<< HEAD
-		System.out.println("**** The Start **** START");//
-=======
-		System.out.println("**** The Start **** start");//
->>>>>>> branch 'feature-1' of https://github.com/dileep2982/GitDemoProject.git
+
+		System.out.println("**** The Start **** Start Camel");//
 		String haveMoodToPlay = "yes";
 		
 		if(haveMoodToPlay.equals("yes")) {
