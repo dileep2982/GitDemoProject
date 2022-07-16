@@ -8,7 +8,7 @@ public class Anil extends AnilParent {
 	
 	//@Override
 	public static void study() {
-		 System.out.println("oh no, I want to play music");
+		 System.out.println("oh no, I want to play music...so i wont study");
 	}
 
 }
