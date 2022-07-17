@@ -1,18 +1,23 @@
 package com.demo.anil;
 
-public class Anil {
+public class Anil extends AnilParent {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		study();
+	}
+	
+	//@Override
+	public static void study() {
+		 System.out.println("oh no, I want to play music");
 	}
 
 }
 
 
+
 class AnilParent{
 	
-	public void study() {
+	public static void study() {
 		 System.out.println("Hey Anil, You need to complete your Btech from IIT- B");
 	}
 }
