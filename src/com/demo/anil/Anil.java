@@ -8,3 +8,11 @@ public class Anil {
 	}
 
 }
+
+
+class AnilParent{
+	
+	public void study() {
+		 System.out.println("Hey Anil, You need to complete your Btech from IIT- B");
+	}
+}
